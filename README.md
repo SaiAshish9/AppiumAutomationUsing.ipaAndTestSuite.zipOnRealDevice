@@ -17,5 +17,6 @@ net.whatsapp.WhatsApp
 
 ```
 Bundle Identifier => 
-copy and paste the .ipa compress it, right click archive utility, show package identifier => bundle identifier
+copy and paste the .ipa compress it, right click archive utility, 
+show package identifier => bundle identifier
 ```
