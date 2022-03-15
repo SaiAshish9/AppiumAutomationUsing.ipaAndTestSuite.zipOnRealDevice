@@ -28,3 +28,12 @@ show package identifier => bundle identifier
 ```
 https://mvnrepository.com/artifact/io.appium/java-client/8.0.0
 ```
+
+```
+xcodebuild -showsdks
+xcodebuild -sdk iphonesimulator15.2xcodebuild -list
+for scheme
+xcodebuild -project XCUIAutomationScripts.xcodeproj -scheme XCUIAutomationScripts -destination "platform=iOS Simulator, name=iPhone 13" tes
+
+/Users/saiashishdarapureddy/Desktop/folders/IOS\ Development/XCUIAutomationScripts/build/Release-iphonesimulator/XCUIAutomationScripts.app // .zip
+```
