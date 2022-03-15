@@ -5,7 +5,7 @@ https://appium.io/docs/en/commands/session/create/
 
 
 ```
-apps.apple.com => whatsapp url copy id and paste that ai itunes.apple.com/lookup?id=<>
+apps.apple.com => whatsapp url copy id and paste that at itunes.apple.com/lookup?id=<>
 ```
 
 ```
