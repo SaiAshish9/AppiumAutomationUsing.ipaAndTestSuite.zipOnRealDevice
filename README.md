@@ -24,3 +24,7 @@ show package identifier => bundle identifier
 ```
 @Test @BeforeClass MobileElement
 ```
+
+```
+https://mvnrepository.com/artifact/io.appium/java-client/8.0.0
+```
